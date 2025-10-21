@@ -2,7 +2,7 @@ name: grafana-app-deployment
 version: 1.0.0
 description: My awesome application
 container:
-  image: grafana-app:latest
+  image: grafana-apps:latest
   port: 3000
 resources:
   cpu: 500m
