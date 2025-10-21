@@ -1,4 +1,4 @@
-name: grafana-app-deployment
+name: grafana-app
 version: 1.0.0
 description: My awesome application
 container:
